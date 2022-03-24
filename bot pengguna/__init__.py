@@ -184,7 +184,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/Kayzyu/Kayzu-Ubot")
+    "https://github.com/Zezan-Userbot/ZezanX-Ubot")
 UPSTREAM_REPO_BRANCH = os.environ.get(
     "UPSTREAM_REPO_BRANCH", "Kayzu-Ubot")
 
@@ -756,7 +756,7 @@ with bot:
                 )
             else:
                 result = builder.article(
-                    title="✨ ҡᴧʏ-υѕєявσт ✨",
+                    title="✨ ZezanX-υѕєявσт ✨",
                     description="Kay - Userbot | Telethon",
                     url="https://t.me/KayXChannel",
                     thumb=InputWebDocument(
