@@ -1,4 +1,4 @@
-<h1 align="center">ҡᴧʏ-υѕєявσт
+<h1 align="center">ZezanX-υѕєявσт
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku :</h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Kayzyu/Kay-Deploy/"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=flat&logo=heroku" width="250" height="40.00" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https:/Zezan-Userbot/github.com//ZezanX-Deploy/"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=flat&logo=heroku" width="250" height="40.00" /></a></p>
 
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=S2F5enl1L0theXp1LVVib3QgS2F5enUtVWJvdA"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
