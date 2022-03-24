@@ -1,5 +1,5 @@
 {
-  "name": "Kay-Userbot",
+  "name": "ZezanX-Userbot",
   "description": "USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/950d5fe4dd1dbe1726f5e.jpg",
   "keywords": [
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Kayzyu/Kayzu-Ubot/Kayzu-Ubot",
-  "telegram": "https://t.me/Kayzuuuuu",
-  "success_url": "https://t.me/kayzuchannel",
+  "repository": "https://github.com/Zezan-Userbot/ZezanX-Ubot/ZezanX-Ubot",
+  "telegram": "https://t.me/ZezannnnnX",
+  "success_url": "https://t.me/zezanx",
   "stack": "container",
   "env": {
     "API_KEY": {
